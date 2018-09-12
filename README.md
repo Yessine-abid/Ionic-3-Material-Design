@@ -11,8 +11,6 @@ Material Design components for IONIC 3
 ## For Help
 Feel free to send me an email if you have any problems.
 Thanks,    
-- Angga Andrean       
- anggaand123@gmail.com
 
 ## Support
 If you use this to further your career, or put money in your pocket, and would like to support the project please consider a 
